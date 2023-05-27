@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateja</h1>
+<h1 align="center">Hi 👋🏼, I'm Mateja</h1>
 <h3 align="center">Ambitious and hardworking software engineering student</h3>
 
 📫 How to reach me: **matejapetkovska2@gmail.com**
